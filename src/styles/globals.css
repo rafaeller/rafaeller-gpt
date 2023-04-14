@@ -17,3 +17,10 @@
     --bg-tertiary: 55, 65, 81;
   }
 }
+
+html,
+body{
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
